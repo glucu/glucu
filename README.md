@@ -1,4 +1,4 @@
-### Hey, I'm Gabe! <img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="40" height="40"/>
+# Hey, I'm Gabe! <img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="40" height="40"/>
 
 
 I'm an undergradute student studying Computer Science at [University of Illinois Springfield](https://www.uis.edu/) with a passion for programming.
