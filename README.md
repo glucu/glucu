@@ -5,7 +5,7 @@ I'm an undergradute student studying Computer Science at [University of Illinois
 
 - :computer: Interested in programming language theory, Data Strutures && Algorithms, and low-level programming
 - 🌱 I’m currently learning modern C++
-- ⚡ Fun fact: I like to exercise and takecare of my health 😄
+- ⚡ Fun fact: I like to exercise and take care of my health 😄
 - 📫 How to reach me: gabe.luculescu@gmail.com
 
  
