@@ -4,7 +4,7 @@
 I'm an undergradute student studying Computer Science at [University of Illinois Springfield](https://www.uis.edu/) with a passion for programming.
 
 - :computer: Interested in programming language theory, Data Strutures && Algorithms, and low-level programming
-- 🌱 I’m currently learning modern C++
+- 🌱 I’m currently learning Linux, modern C++, and programming language implementations
 - ⚡ Fun fact: I like to exercise and take care of my health 😄
 - 📫 How to reach me: gabe.luculescu@gmail.com
 
